@@ -1,7 +1,7 @@
 # js_for_fun
 NodeSchool Javascripting for fun
 ## programm List
-  - » INTRODUCTION                                             [COMPLETED]  
+  - » INTRODUCTION                                                [COMPLETED]  
   - » VARIABLES                                                   [COMPLETED]  
   - » STRINGS                                                     [COMPLETED]  
   - » STRING LENGTH                                               [COMPLETED]  
