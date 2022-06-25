@@ -10,4 +10,12 @@ NodeSchool Javascripting for fun
   - » ROUNDING NUMBERS                                            [COMPLETED]  
   - » NUMBER TO STRING                                            [COMPLETED]  
   - » IF STATEMENT                                                [COMPLETED]  
-  - » FOR LOOP 
+  - » FOR LOOP                                                    [COMPLETED]
+  - » ARRAYS                                                      [COMPLETED]  
+  - » ARRAY FILTERING                                             [COMPLETED]  
+  - » ACCESSING ARRAY VALUES                                      [COMPLETED]  
+  - » LOOPING THROUGH ARRAYS                                      [COMPLETED]  
+  - » OBJECTS                                                     [COMPLETED]  
+  - » OBJECT PROPERTIES                                           [COMPLETED]  
+  - » OBJECT KEYS                                                 [COMPLETED]  
+  - » FUNCTIONS   
