@@ -1,5 +1,12 @@
 # js_for_fun
 NodeSchool Javascripting for fun
+
+## start to code
+
+```
+npm install -g javascripting
+```
+
 ## programm List
   - » INTRODUCTION                                                [COMPLETED]  
   - » VARIABLES                                                   [COMPLETED]  
